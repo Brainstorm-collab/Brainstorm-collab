@@ -26,7 +26,9 @@
 ## 🚀 Projects  
 ### 🎮 [Snake Game (Python, Pygame)](https://github.com/Brainstorm-collab/PythonSnakeGameProject)  
 - Built a **smooth & realistic** Snake Game with **bonus food mechanics** and **real-time scoring**.  
-- Enhanced UI with **gradient effects** and a **restart system** for better user experience.  
+- Enhanced UI with **gradient effects** and a **restart system** for better user experience.
+ ### 🎮 [2048 Game (js, React)](https://github.com/Brainstorm-collab/2048-react-game)
+ 
 
 ---
 
