@@ -17,7 +17,7 @@
 
 ## 🛠️ Tech Stack  
 🔹 **Languages:** Python, C, JavaScript, HTML, CSS  
-🔹 **Frameworks/Libraries:** Pygame, Flask  
+🔹 **Frameworks/Libraries:** Pygame, Flask, React
 🔹 **Databases:** MySQL, SQLite  
 🔹 **Developer Tools:** Git, GitHub, PyCharm, VS Code  
 
