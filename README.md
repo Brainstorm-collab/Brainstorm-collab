@@ -7,8 +7,8 @@
 ---
 
 ## 🏆 Competitive Programming Achievements  
-✅ **Solved 1500+ problems** on CodeChef.  
-✅ Maintained a **100+ day coding streak**, showcasing consistency.  
+✅ **Solved 2500+ problems** on CodeChef.  
+✅ Maintained a **250+ day coding streak**, showcasing consistency.  
 ✅ **Global Rank 361** in CodeChef Starters 171.  
 
 🔗 **CodeChef Profile:** [brainstorm_69](https://www.codechef.com/users/brainstorm_69)  
