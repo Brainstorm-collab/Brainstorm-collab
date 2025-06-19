@@ -44,9 +44,10 @@ An iOS-style calculator built with vanilla JS.
 ---
 
 ## 📜 Certifications & Courses  
-🎓 **Problem Solving in Python,c,java (CodeChef)**  
+🎓 **Problem Solving in Python, c, java (CodeChef)**  
 🎓 **Big Data Computing (NPTEL)**  
-🎓 **Efficient Communication & English for IT**  
+🎓 **certifications in frontend development including (React)**  
+🎓 **Efficient Communication & English for IT (Cisco)**  
 
 ---
 
