@@ -28,15 +28,15 @@
 - Built a **smooth & realistic** Snake Game with **bonus food mechanics** and **real-time scoring**.  
 - Enhanced UI with **gradient effects** and a **restart system** for better user experience.
   
-### 🎮 [2048 React Game](https://github.com/Brainstorm-collab/2048-react-game)
+### 🎮 [2048 React Game(javaScript, React)](https://github.com/Brainstorm-collab/2048-react-game)
 A smooth, mobile-friendly 2048 game built with React + Vite.  
 ✨ Features: Live score, undo, swipe support, dark mode, animations, and responsive UI.
 
-### 🌦️ [Weather App](https://github.com/Brainstorm-collab/weather-app)
+### 🌦️ [Weather App(html, css, js)](https://github.com/Brainstorm-collab/weather-app)
 A clean weather app using JS & OpenWeatherMap API.  
 ✨ Features: Real-time data, city search, error handling, and responsive design.
 
-### 📱 [iOS Calculator](https://github.com/Brainstorm-collab/iOS-Calculator)
+### 📱 [iOS Calculator(html, css, js)](https://github.com/Brainstorm-collab/iOS-Calculator)
 An iOS-style calculator built with vanilla JS.  
 ✨ Features: Modern UI, keyboard support, responsive, and fast.
 
