@@ -1,3 +1,10 @@
+<div align="center">
+  <img src="public/CareerFlow%20demo%20img.png" alt="Gali Eesaan Portfolio - Full-Stack Developer" width="800px" />
+</div>
+
+---
+
+
 ## 👨‍💻 About Me
 
 **🚀 Full-Stack Developer & Competitive Programmer**
