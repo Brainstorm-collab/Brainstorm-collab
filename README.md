@@ -42,7 +42,7 @@ I'm **Gali Eesaan**, a passionate Computer Science student at Bharath Institute 
 ---
 
 #### 2. **FoodieHub - E-commerce Food Delivery Platform**
-**🕒 2024 | React TypeScript Application**
+**🕒 2025 | React TypeScript Application**
 
 **Description:** A sophisticated food delivery web application that revolutionizes the online food ordering experience with advanced features and seamless user interface.
 
