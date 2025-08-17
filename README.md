@@ -22,7 +22,7 @@ I'm **Gali Eesaan**, a passionate Computer Science student at Bharath Institute 
 ### 🚀 Featured Projects
 
 #### 1. **CareerFlow - Enterprise-Grade Job Board Platform** 
-**🕒 2024 | Full-Stack Web Application**
+**🕒 2025 | Full-Stack Web Application**
 
 **Description:** A production-ready job portal connecting global talent with leading organizations worldwide. This comprehensive platform serves both job seekers and employers with advanced features and seamless user experience.
 
@@ -99,7 +99,7 @@ I'm **Gali Eesaan**, a passionate Computer Science student at Bharath Institute 
 ---
 
 #### 5. **2048 Puzzle Game - React Gaming Platform**
-**�� 2023 | React State Management Application**
+**�� 2024 | React State Management Application**
 
 **Description:** A modern 2048 puzzle game built with React, featuring advanced state management and professional UI/UX design principles.
 
@@ -163,7 +163,6 @@ I'm always open to discussing technology trends, collaborating on interesting pr
 **📧 Email:** [eesaangali@gmail.com](mailto:eesaangali@gmail.com)  
 **🔗 LinkedIn:** [Gali Eesaan](https://www.linkedin.com/in/eesaan-gali-11o42k5)  
 **💻 GitHub:** [@Brainstorm-collab](https://github.com/Brainstorm-collab)  
-**📱 Phone:** +91 8866896669  
 **🏫 Location:** Chennai, Tamil Nadu, India  
 **🎓 Education:** B.Tech in Computer Science & Engineering (Expected 2026)
 
