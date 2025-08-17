@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="public/CareerFlow%20demo%20img.png" alt="Gali Eesaan Portfolio - Full-Stack Developer" width="800px" />
+  <img src="Screenshot (45).png" alt="Gali Eesaan Portfolio - Full-Stack Developer" width="800px" />
 </div>
 
 ---
