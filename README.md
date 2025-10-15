@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Brainstorm-collab/portfolio/main/public/imgs/portfolio.png" alt="Gali Eesaan Portfolio - Full-Stack Developer" width="800px" />
+  <img src="Screenshot (45).png" alt="Gali Eesaan Portfolio - Full-Stack Developer" width="800px" />
 </div>
 
 ---
@@ -19,12 +19,14 @@ I'm **Gali Eesaan**, a passionate Computer Science student at Bharath Institute 
 
 ### 💻 Technical Expertise
 - **Frontend Development:** React.js, Next.js, TypeScript, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Shadcn/ui, Vite, Framer Motion
+- **Performance Engineering:** Custom React Hooks, Lazy Loading, Virtualization, Intersection Observer API, Web Vitals, Bundle Optimization
 - **Backend Development:** Node.js, Convex, RESTful APIs, Authentication Systems, Real-time Database Operations
 - **Database Management:** PostgreSQL (Supabase), Convex, MySQL, SQLite, Database Design & Optimization
 - **AI & Machine Learning:** Google Gemini AI, OpenAI API, AI-powered content generation
 - **Cloud & DevOps:** Supabase Cloud Platform, Vercel, Version Control (Git), CI/CD Pipeline Understanding
 - **Programming Languages:** Python, C, JavaScript, TypeScript, HTML, CSS
 - **Development Tools:** Visual Studio Code, Cursor IDE, GitHub, Git Bash, Terminal Operations
+- **Performance Monitoring:** Core Web Vitals, Performance Analytics, Memory Management, Error Tracking
 
 ### 🚀 Featured Projects
 
@@ -91,22 +93,38 @@ I'm **Gali Eesaan**, a passionate Computer Science student at Bharath Institute 
 
 ---
 
-#### 4. **Personal Portfolio Website**
-**🕒 2025 | Modern React Portfolio**
+#### 4. **Personal Portfolio Website - Performance Optimized**
+**🕒 2025 | Advanced React Portfolio with Performance Engineering**
 
-**Description:** A modern, responsive, and animated personal portfolio website built with React, TypeScript, Tailwind CSS, and Framer Motion. Features a beautiful dark theme with smooth animations and professional design.
+**Description:** A cutting-edge, performance-optimized personal portfolio website built with React, TypeScript, Tailwind CSS, and Framer Motion. Features advanced performance optimizations, lazy loading, virtualized components, and comprehensive monitoring systems.
 
 **Key Features:**
+- **Advanced Performance Optimizations:** Custom hooks for scroll performance, debounced callbacks, and intersection observers
+- **Lazy Loading & Image Optimization:** Intelligent image loading with intersection observer and error handling
+- **Virtualized Components:** Custom virtualized list component for handling large datasets efficiently
+- **Resource Preloading:** Critical resource preloading for faster initial page loads
+- **Performance Monitoring:** Real-time performance monitoring with Core Web Vitals tracking
 - **Modern Design:** Clean, professional design with beautiful gradients and animations
 - **Dark Theme:** Elegant dark theme with purple accents and grid patterns
 - **Fully Responsive:** Optimized for mobile, tablet, and desktop devices
-- **Smooth Animations:** Powered by Framer Motion for engaging user experience
-- **Performance Optimized:** Fast loading times and smooth interactions
+- **Smooth Animations:** Powered by Framer Motion with optimized animation variants
 - **SEO Friendly:** Proper meta tags and semantic HTML structure
-- **Modular Architecture:** Clean, maintainable component structure
+- **Modular Architecture:** Clean, maintainable component structure with custom hooks
 - **Theme Toggle:** Built-in theme switching capability
+- **Accessibility:** ARIA labels, keyboard navigation, and focus management
+- **Bundle Optimization:** Tree shaking, code splitting, and optimized builds
 
-**Technologies Used:** React 18, TypeScript, Tailwind CSS, Framer Motion, Vite, Lucide React, EmailJS
+**Advanced Technical Features:**
+- **Custom Performance Hooks:** `useScrollPerformance`, `useDebounce`, `useIntersectionObserver`
+- **Lazy Image Component:** Intersection observer-based image loading with fallbacks
+- **Virtualized Lists:** Efficient rendering of large datasets with windowing
+- **Resource Preloader:** Critical resource preloading and DNS prefetching
+- **Performance Monitor:** Real-time performance tracking and Core Web Vitals
+- **Optimized Animations:** Reduced animation complexity and improved frame rates
+- **Memory Management:** Proper cleanup and memory leak prevention
+- **Error Boundaries:** Comprehensive error handling and user feedback
+
+**Technologies Used:** React 18, TypeScript, Tailwind CSS, Framer Motion, Vite, Lucide React, EmailJS, Custom Performance Hooks, Intersection Observer API, Web Vitals API
 
 **Live Demo:** [Portfolio Website](https://eesaan-portfolio.vercel.app/)  
 **Source Code:** [Portfolio Repository](https://github.com/Brainstorm-collab/portfolio)
@@ -171,6 +189,19 @@ I'm **Gali Eesaan**, a passionate Computer Science student at Bharath Institute 
 
 ---
 
+### 🚀 Performance Engineering & Technical Excellence
+
+**Advanced Performance Optimizations Implemented:**
+
+- **Custom Performance Hooks:** Developed specialized React hooks for scroll performance, debouncing, and intersection observation
+- **Lazy Loading Architecture:** Implemented intelligent image loading with intersection observer API and error handling
+- **Virtualized Components:** Built custom virtualized list components for efficient rendering of large datasets
+- **Resource Preloading:** Critical resource preloading system with DNS prefetching for faster initial loads
+- **Performance Monitoring:** Real-time Core Web Vitals tracking and performance analytics
+- **Memory Management:** Proper cleanup, memory leak prevention, and optimized re-renders
+- **Bundle Optimization:** Tree shaking, code splitting, and optimized production builds
+- **Animation Optimization:** Reduced animation complexity and improved frame rates for smooth UX
+
 ### 🌟 What Drives Me
 
 I believe in **continuous learning** and pushing the boundaries of what's possible with code. My approach combines:
@@ -178,9 +209,10 @@ I believe in **continuous learning** and pushing the boundaries of what's possib
 - **Problem-Solving Mindset:** Developed through competitive programming and algorithmic challenges
 - **Clean Code Philosophy:** Writing maintainable, scalable, and efficient code
 - **User-Centric Design:** Creating applications that provide exceptional user experiences
-- **Performance Optimization:** Ensuring applications run smoothly and efficiently
+- **Performance Optimization:** Ensuring applications run smoothly and efficiently with advanced engineering techniques
 - **Innovation:** Exploring new technologies and methodologies to stay ahead
 - **AI Integration:** Leveraging artificial intelligence to create smarter, more efficient solutions
+- **Technical Excellence:** Implementing advanced performance optimizations and monitoring systems
 
 ### 🎯 Current Focus & Goals
 
