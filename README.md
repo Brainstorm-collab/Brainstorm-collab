@@ -33,39 +33,63 @@ I'm **Gali Eesaan**, a passionate Computer Science student at Bharath Institute 
 #### 1. **CREATR - AI-Powered Content Creation Platform** 
 **🕒 2025 | Full-Stack AI Application**
 
-**Description:** A sophisticated, full-stack AI-powered content creation platform that revolutionizes how creators generate, manage, and publish blog content. Built with cutting-edge technologies including Next.js 15, React 19, Google Gemini AI, and Convex real-time database.
+**Description:** A sophisticated, full-stack AI-powered content creation platform that revolutionizes how creators generate, manage, and publish blog content. Built with cutting-edge technologies including Next.js 15, React 19, Google Gemini AI, and Convex real-time database. Features advanced AI content generation, rich text editor, real-time analytics, social features, and professional image management with ImageKit integration.
 
 **Key Features:**
-- **AI Content Generation:** Google Gemini AI integration for automated blog writing (800-1200 words)
-- **Rich Text Editor:** Advanced content editor with React Quill and auto-save functionality
-- **Real-time Analytics:** Comprehensive dashboard with Chart.js visualization
-- **Social Features:** User profiles, follow system, and engagement tools
-- **Image Management:** Professional media handling with ImageKit integration
-- **Content Scheduling:** Draft management and publishing system
-- **SEO Optimization:** Built-in SEO tools and content enhancement
+- **AI-powered content generation with Google Gemini (800-1200 words)**
+- **Advanced rich text editor with React Quill and auto-save**
+- **Real-time analytics dashboard with Chart.js visualization**
+- **Social features with follow system and engagement tools**
+- **Professional image management with ImageKit integration**
+- **Comprehensive user profiles with custom usernames**
+- **Content scheduling and draft management system**
+- **Image transformations with multiple aspect ratios**
+- **SEO optimization and content enhancement tools**
+- **Real-time data synchronization across all clients**
+- **Anonymous interactions and moderation system**
+- **Activity tracking and performance metrics**
+- **Drag-and-drop file upload with React Dropzone**
+- **Dark/light mode with system preference detection**
+- **Responsive design optimized for all devices**
+- **Advanced search and content discovery**
+- **Daily statistics and growth tracking**
+- **Professional authentication with Clerk themes**
 
-**Technologies Used:** Next.js 15, React 19, TypeScript, Convex, Clerk Auth, Google Gemini AI, Shadcn UI, Tailwind CSS, ImageKit, React Quill, Chart.js
+**Technologies Used:** Next.js 15.4.6, React 19.1.0, TypeScript, Convex 1.25.4, Clerk 6.31.1, Google Gemini AI 0.24.1, Shadcn UI, Tailwind CSS 4.0, ImageKit 6.0.0, React Quill 3.6.0, Chart.js 5.3.0, Radix UI, React Hook Form 7.62.0, Zod 4.0.17, React Dropzone 14.3.8, Sonner 2.0.7, Next Themes 0.4.6
+
+**Duration:** 2 months | **Team Size:** 3 developers | **Status:** Live & Active
 
 **Live Demo:** [CREATR Platform](https://creatr-alpha.vercel.app/)  
 **Source Code:** [CREATR Repository](https://github.com/Brainstorm-collab/creatr)
 
 ---
 
-#### 2. **CareerFlow - Enterprise-Grade Job Board Platform** 
+#### 2. **CAREERFLOW - Serverless ATS-lite Platform** 
 **🕒 2025 | Full-Stack Web Application**
 
-**Description:** A production-ready job portal connecting global talent with leading organizations worldwide. This comprehensive platform serves both job seekers and employers with advanced features and seamless user experience.
+**Description:** CareerFlow is a serverless ATS-lite platform that connects job seekers and employers with a smooth, high-performance experience. It includes Google/Facebook OAuth and email/password authentication, role-based access (candidate vs recruiter), real-time data via Convex, and a responsive React (Vite + Tailwind) UI. Users can post jobs, apply, save jobs, manage candidates, receive notifications, and handle resumes, with lazy/deferred routing, virtualized lists, request caching/deduplication, and a production-only service worker for fast, reliable UX.
 
 **Key Features:**
-- **User Authentication & Authorization:** Secure authentication using Clerk with role-based access control (RBAC)
-- **Real-time Job Management:** Live job posting, application tracking, and real-time notifications
-- **Advanced UI Components:** Built responsive interface using Shadcn/ui and Tailwind CSS
-- **File Storage System:** Secure upload and management of resumes and company logos
-- **Admin Dashboard:** Comprehensive admin panel for job and user management
-- **Database Architecture:** PostgreSQL database with Supabase backend, real-time subscriptions, and optimized query performance
-- **Responsive Design:** Mobile-first approach ensuring optimal experience across all devices
+- **Advanced job search with multi-criteria filtering**
+- **Real-time application tracking and notifications**
+- **Role-based access control (candidates vs recruiters)**
+- **Secure resume upload and handling via Convex storage**
+- **Job posting and candidate management**
+- **Saved jobs and application history**
+- **Responsive, modern UI with lazy/deferred routing**
+- **Optimistic UI updates and request deduplication**
+- **Protected routes and authentication guards**
+- **Local storage session handling with Convex sync**
+- **Google/Facebook OAuth authentication**
+- **Email/password authentication**
+- **Virtualized lists for performance**
+- **Production-only service worker**
+- **Request caching and deduplication**
+- **Real-time data synchronization**
 
-**Technologies Used:** React 18, Vite 5, Tailwind CSS, Convex, React Router v6, Google OAuth, Facebook SDK, Radix UI, React Hook Form, Zod Validation, Service Worker
+**Technologies Used:** React 18, Vite 5, Tailwind CSS, Convex (queries/mutations, storage), React Router v6, @react-oauth/google, Facebook SDK, Radix UI primitives, Custom UI components, React Hook Form, Zod validation, Service Worker (prod-only), Embla Carousel, Lucide Icons
+
+**Duration:** 1 month | **Team Size:** Solo Developer | **Status:** Live & Production Ready
 
 **Live Demo:** [CareerFlow Platform](https://careerflowjb.vercel.app/)  
 **Source Code:** [CareerFlow Repository](https://github.com/Brainstorm-collab/CareerFlow)
@@ -75,21 +99,14 @@ I'm **Gali Eesaan**, a passionate Computer Science student at Bharath Institute 
 #### 3. **FoodieHub - E-commerce Food Delivery Platform**
 **🕒 2025 | React TypeScript Application**
 
-**Description:** A sophisticated food delivery web application that revolutionizes the online food ordering experience with advanced features and seamless user interface.
+**Description:** A modern, responsive food delivery web application built with React 18, TypeScript, and Tailwind CSS. Features interactive menu with real-time search, advanced filtering, sorting, one-click cart and wishlist management, and multi-step checkout with live order tracking. Implements robust authentication, session persistence, and payment integration (UPI), all within a performance-optimized, mobile-first design.
 
-**Key Features:**
-- **Real-time Cart Management:** Dynamic shopping cart with live updates and persistent state
-- **Intelligent Search & Filtering:** Advanced search algorithms with category-based filtering
-- **Multi-step Checkout:** Streamlined checkout process with UPI payment integration
-- **Order Tracking System:** Real-time order status updates and delivery tracking
-- **User Authentication:** Secure login system with session persistence
-- **Performance Optimization:** Built with Vite for lightning-fast development and optimized production builds
-- **Responsive Design:** Beautiful UI with smooth animations and cross-device compatibility
+**Technologies Used:** React 18, TypeScript, Tailwind CSS, Framer Motion, Context API, Vite
 
-**Technologies Used:** React 18, TypeScript, Tailwind CSS, Vite, Framer Motion, Context API
+**Duration:** 3 weeks | **Team Size:** Solo Developer | **Status:** Completed
 
 **Live Demo:** [FoodieHub Platform](https://foodie-hub-lilac.vercel.app/)  
-**Source Code:** [FoodieHub Repository](https://github.com/Brainstorm-collab/FoodieHub)
+**Source Code:** [FoodieHub Repository](https://github.com/Brainstorm-collab/FoodieHub.git)
 
 ---
 
@@ -134,55 +151,38 @@ I'm **Gali Eesaan**, a passionate Computer Science student at Bharath Institute 
 #### 5. **Snake Game - Interactive Gaming Application**
 **🎮 2023 | Python Game Development**
 
-**Description:** A modern, engaging Snake game that demonstrates advanced game development principles and object-oriented programming concepts.
+**Description:** An interactive retro Snake Game built using Python and Pygame. Implements real-time collision detection, responsive controls, scoring mechanism, and enhanced visual elements for smooth gameplay.
 
-**Key Features:**
-- **Advanced Collision Detection:** Sophisticated algorithms for precise collision handling
-- **Real-time Scoring System:** Live score tracking with persistent high score storage
-- **Enhanced User Interface:** Smooth animations and intuitive controls
-- **Game State Management:** Efficient handling of game states and player progression
-- **Cross-platform Compatibility:** Runs seamlessly on Windows, macOS, and Linux
+**Technologies Used:** Python 3, Pygame, Game Loop Logic, Collision Detection, Event Handling
 
-**Technologies Used:** Python, Pygame, Object-Oriented Programming, Game Development
+**Duration:** 2 weeks | **Team Size:** Solo Developer | **Status:** Completed
 
 **Source Code:** [Snake Game](https://github.com/Brainstorm-collab/PythonSnakeGameProject.git)
 
 ---
 
-#### 6. **Weather Dashboard - Real-time Meteorological Application**
+#### 6. **Weather App - Real-time Meteorological Application**
 **🕒 2023 | JavaScript API Integration**
 
-**Description:** A dynamic weather application that provides real-time meteorological data with an intuitive and responsive user interface.
-
-**Key Features:**
-- **Real-time Weather Data:** Integration with OpenWeather API for live weather updates
-- **Adaptive UI Design:** Dynamic color schemes and backgrounds based on weather conditions
-- **Advanced Search Functionality:** City-based search with autocomplete suggestions
-- **Comprehensive Weather Metrics:** Temperature, humidity, wind speed, atmospheric pressure, and more
-- **Responsive Design:** Optimized for all screen sizes and devices
-- **Performance Optimization:** Efficient API calls and data caching
+**Description:** A real-time weather application powered by the OpenWeather API. Offers dynamic city-based search, responsive UI, and live data display including temperature, humidity, and wind speed. Features dynamic backgrounds, color transitions, and cross-device optimization.
 
 **Technologies Used:** React.js, Vite, CSS3, LocalStorage, Framer Motion, Responsive Design
 
-**Live Demo:** [Weather Dashboard](https://weather-app-three-blue-95.vercel.app/)  
+**Duration:** 1 week | **Team Size:** Solo Developer | **Status:** Completed
+
+**Live Demo:** [Weather App](https://weather-app-three-blue-95.vercel.app/)  
 **Source Code:** [Weather App Repository](https://github.com/Brainstorm-collab/weather-app)
 
 ---
 
-#### 7. **2048 Puzzle Game - React Gaming Platform**
+#### 7. **2048 React Game - React Gaming Platform**
 **🎮 2024 | React State Management Application**
 
-**Description:** A modern 2048 puzzle game built with React, featuring advanced state management and professional UI/UX design principles.
-
-**Key Features:**
-- **Advanced State Management:** Efficient React state handling for complex game logic
-- **Persistent Score Tracking:** Local storage integration for high score persistence
-- **Undo Functionality:** Step-by-step game state reversal
-- **Responsive Theming:** Dark mode support with smooth theme transitions
-- **Mobile Gesture Support:** Touch and swipe controls for mobile devices
-- **Component Architecture:** Reusable React components with clean separation of concerns
+**Description:** A fully responsive 2048 puzzle game built with React and Vite, featuring smooth iOS-style animations, score tracking via localStorage, undo functionality, dark mode, and swipe gesture support. Focuses on clean state management and modular component architecture.
 
 **Technologies Used:** React.js, Vite, CSS3, LocalStorage, Framer Motion, Responsive Design
+
+**Duration:** 5 days | **Team Size:** Solo Developer | **Status:** Completed
 
 **Live Demo:** [2048 React Game](https://2048-react-game-three.vercel.app/)  
 **Source Code:** [2048 Game Repository](https://github.com/Brainstorm-collab/2048-react-game)
