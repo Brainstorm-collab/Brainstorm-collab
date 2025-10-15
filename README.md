@@ -1,9 +1,8 @@
 <div align="center">
-  <img src="Screenshot (45).png" alt="Gali Eesaan Portfolio - Full-Stack Developer" width="800px" />
+  <img src="https://raw.githubusercontent.com/Brainstorm-collab/portfolio/main/public/imgs/portfolio.png" alt="Gali Eesaan Portfolio - Full-Stack Developer" width="800px" />
 </div>
 
 ---
-
 
 ## 👨‍💻 About Me
 
@@ -11,7 +10,7 @@
 
 I'm **Gali Eesaan**, a passionate Computer Science student at Bharath Institute of Higher Education and Research, Chennai, with a strong foundation in software development, algorithmic problem-solving, and modern web technologies. My journey in tech is driven by curiosity, continuous learning, and a desire to create impactful solutions that solve real-world problems.
 
-### �� Key Achievements & Recognition
+### 🏆 Key Achievements & Recognition
 - **Competitive Programming Excellence:** Solved **2700+** problems on CodeChef with a **250+** day coding streak, demonstrating exceptional algorithmic thinking and problem-solving skills
 - **Academic Excellence:** Maintaining **8.1/10 CGPA** in Computer Science & Engineering
 - **JEE Mains Achievement:** Scored **88.04 percentile** (All India Rank: 15,411 out of 1.2M+ candidates)
@@ -19,22 +18,44 @@ I'm **Gali Eesaan**, a passionate Computer Science student at Bharath Institute 
 - **Multiple Certifications:** Earned certifications in Python Problem Solving, Data Structures & Algorithms, Web Development, and more
 
 ### 💻 Technical Expertise
-- **Frontend Development:** React.js, TypeScript, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Shadcn/ui, Vite, Framer Motion
-- **Backend Development:** Node.js, RESTful APIs, Authentication Systems, Real-time Database Operations
-- **Database Management:** PostgreSQL (Supabase), MySQL, SQLite, Database Design & Optimization
+- **Frontend Development:** React.js, Next.js, TypeScript, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Shadcn/ui, Vite, Framer Motion
+- **Backend Development:** Node.js, Convex, RESTful APIs, Authentication Systems, Real-time Database Operations
+- **Database Management:** PostgreSQL (Supabase), Convex, MySQL, SQLite, Database Design & Optimization
+- **AI & Machine Learning:** Google Gemini AI, OpenAI API, AI-powered content generation
+- **Cloud & DevOps:** Supabase Cloud Platform, Vercel, Version Control (Git), CI/CD Pipeline Understanding
 - **Programming Languages:** Python, C, JavaScript, TypeScript, HTML, CSS
-- **Cloud & DevOps:** Supabase Cloud Platform, Version Control (Git), CI/CD Pipeline Understanding
 - **Development Tools:** Visual Studio Code, Cursor IDE, GitHub, Git Bash, Terminal Operations
 
 ### 🚀 Featured Projects
 
-#### 1. **CareerFlow - Enterprise-Grade Job Board Platform** 
+#### 1. **CREATR - AI-Powered Content Creation Platform** 
+**🕒 2025 | Full-Stack AI Application**
+
+**Description:** A sophisticated, full-stack AI-powered content creation platform that revolutionizes how creators generate, manage, and publish blog content. Built with cutting-edge technologies including Next.js 15, React 19, Google Gemini AI, and Convex real-time database.
+
+**Key Features:**
+- **AI Content Generation:** Google Gemini AI integration for automated blog writing (800-1200 words)
+- **Rich Text Editor:** Advanced content editor with React Quill and auto-save functionality
+- **Real-time Analytics:** Comprehensive dashboard with Chart.js visualization
+- **Social Features:** User profiles, follow system, and engagement tools
+- **Image Management:** Professional media handling with ImageKit integration
+- **Content Scheduling:** Draft management and publishing system
+- **SEO Optimization:** Built-in SEO tools and content enhancement
+
+**Technologies Used:** Next.js 15, React 19, TypeScript, Convex, Clerk Auth, Google Gemini AI, Shadcn UI, Tailwind CSS, ImageKit, React Quill, Chart.js
+
+**Live Demo:** [CREATR Platform](https://creatr-alpha.vercel.app/)  
+**Source Code:** [CREATR Repository](https://github.com/Brainstorm-collab/creatr)
+
+---
+
+#### 2. **CareerFlow - Enterprise-Grade Job Board Platform** 
 **🕒 2025 | Full-Stack Web Application**
 
 **Description:** A production-ready job portal connecting global talent with leading organizations worldwide. This comprehensive platform serves both job seekers and employers with advanced features and seamless user experience.
 
 **Key Features:**
-- **User Authentication & Authorization:** Implemented secure user authentication using Clerk with role-based access control (RBAC)
+- **User Authentication & Authorization:** Secure authentication using Clerk with role-based access control (RBAC)
 - **Real-time Job Management:** Live job posting, application tracking, and real-time notifications
 - **Advanced UI Components:** Built responsive interface using Shadcn/ui and Tailwind CSS
 - **File Storage System:** Secure upload and management of resumes and company logos
@@ -42,13 +63,14 @@ I'm **Gali Eesaan**, a passionate Computer Science student at Bharath Institute 
 - **Database Architecture:** PostgreSQL database with Supabase backend, real-time subscriptions, and optimized query performance
 - **Responsive Design:** Mobile-first approach ensuring optimal experience across all devices
 
-**Technologies Used:** React, Vite, Tailwind CSS, Shadcn/ui, Supabase (PostgreSQL), Clerk Authentication, Real-time Database
+**Technologies Used:** React 18, Vite 5, Tailwind CSS, Convex, React Router v6, Google OAuth, Facebook SDK, Radix UI, React Hook Form, Zod Validation, Service Worker
 
-**Live Demo:** [CareerFlow Platform](https://github.com/Brainstorm-collab/CareerFlow)
+**Live Demo:** [CareerFlow Platform](https://careerflowjb.vercel.app/)  
+**Source Code:** [CareerFlow Repository](https://github.com/Brainstorm-collab/CareerFlow)
 
 ---
 
-#### 2. **FoodieHub - E-commerce Food Delivery Platform**
+#### 3. **FoodieHub - E-commerce Food Delivery Platform**
 **🕒 2025 | React TypeScript Application**
 
 **Description:** A sophisticated food delivery web application that revolutionizes the online food ordering experience with advanced features and seamless user interface.
@@ -62,14 +84,37 @@ I'm **Gali Eesaan**, a passionate Computer Science student at Bharath Institute 
 - **Performance Optimization:** Built with Vite for lightning-fast development and optimized production builds
 - **Responsive Design:** Beautiful UI with smooth animations and cross-device compatibility
 
-**Technologies Used:** React 18, TypeScript, Tailwind CSS, Vite, Local Storage, UPI Integration
+**Technologies Used:** React 18, TypeScript, Tailwind CSS, Vite, Framer Motion, Context API
 
-**Project Repository:** [FoodieHub](https://github.com/Brainstorm-collab/FoodieHub)
+**Live Demo:** [FoodieHub Platform](https://foodie-hub-lilac.vercel.app/)  
+**Source Code:** [FoodieHub Repository](https://github.com/Brainstorm-collab/FoodieHub)
 
 ---
 
-#### 3. **Snake Game - Interactive Gaming Application**
-**�� 2023 | Python Game Development**
+#### 4. **Personal Portfolio Website**
+**🕒 2025 | Modern React Portfolio**
+
+**Description:** A modern, responsive, and animated personal portfolio website built with React, TypeScript, Tailwind CSS, and Framer Motion. Features a beautiful dark theme with smooth animations and professional design.
+
+**Key Features:**
+- **Modern Design:** Clean, professional design with beautiful gradients and animations
+- **Dark Theme:** Elegant dark theme with purple accents and grid patterns
+- **Fully Responsive:** Optimized for mobile, tablet, and desktop devices
+- **Smooth Animations:** Powered by Framer Motion for engaging user experience
+- **Performance Optimized:** Fast loading times and smooth interactions
+- **SEO Friendly:** Proper meta tags and semantic HTML structure
+- **Modular Architecture:** Clean, maintainable component structure
+- **Theme Toggle:** Built-in theme switching capability
+
+**Technologies Used:** React 18, TypeScript, Tailwind CSS, Framer Motion, Vite, Lucide React, EmailJS
+
+**Live Demo:** [Portfolio Website](https://eesaan-portfolio.vercel.app/)  
+**Source Code:** [Portfolio Repository](https://github.com/Brainstorm-collab/portfolio)
+
+---
+
+#### 5. **Snake Game - Interactive Gaming Application**
+**🎮 2023 | Python Game Development**
 
 **Description:** A modern, engaging Snake game that demonstrates advanced game development principles and object-oriented programming concepts.
 
@@ -86,7 +131,7 @@ I'm **Gali Eesaan**, a passionate Computer Science student at Bharath Institute 
 
 ---
 
-#### 4. **Weather Dashboard - Real-time Meteorological Application**
+#### 6. **Weather Dashboard - Real-time Meteorological Application**
 **🕒 2023 | JavaScript API Integration**
 
 **Description:** A dynamic weather application that provides real-time meteorological data with an intuitive and responsive user interface.
@@ -99,14 +144,15 @@ I'm **Gali Eesaan**, a passionate Computer Science student at Bharath Institute 
 - **Responsive Design:** Optimized for all screen sizes and devices
 - **Performance Optimization:** Efficient API calls and data caching
 
-**Technologies Used:** HTML5, CSS3, JavaScript (ES6+), OpenWeather API, Responsive Design
+**Technologies Used:** React.js, Vite, CSS3, LocalStorage, Framer Motion, Responsive Design
 
-**Live Application:** [Weather Dashboard](https://github.com/Brainstorm-collab/weather-app)
+**Live Demo:** [Weather Dashboard](https://weather-app-three-blue-95.vercel.app/)  
+**Source Code:** [Weather App Repository](https://github.com/Brainstorm-collab/weather-app)
 
 ---
 
-#### 5. **2048 Puzzle Game - React Gaming Platform**
-**�� 2024 | React State Management Application**
+#### 7. **2048 Puzzle Game - React Gaming Platform**
+**🎮 2024 | React State Management Application**
 
 **Description:** A modern 2048 puzzle game built with React, featuring advanced state management and professional UI/UX design principles.
 
@@ -118,9 +164,10 @@ I'm **Gali Eesaan**, a passionate Computer Science student at Bharath Institute 
 - **Mobile Gesture Support:** Touch and swipe controls for mobile devices
 - **Component Architecture:** Reusable React components with clean separation of concerns
 
-**Technologies Used:** React, CSS3, Vite, Local Storage, State Management, Responsive Design
+**Technologies Used:** React.js, Vite, CSS3, LocalStorage, Framer Motion, Responsive Design
 
-**Game Repository:** [2048 React Game](https://github.com/Brainstorm-collab/2048-react-game)
+**Live Demo:** [2048 React Game](https://2048-react-game-three.vercel.app/)  
+**Source Code:** [2048 Game Repository](https://github.com/Brainstorm-collab/2048-react-game)
 
 ---
 
@@ -133,10 +180,12 @@ I believe in **continuous learning** and pushing the boundaries of what's possib
 - **User-Centric Design:** Creating applications that provide exceptional user experiences
 - **Performance Optimization:** Ensuring applications run smoothly and efficiently
 - **Innovation:** Exploring new technologies and methodologies to stay ahead
+- **AI Integration:** Leveraging artificial intelligence to create smarter, more efficient solutions
 
 ### 🎯 Current Focus & Goals
 
-- **Advanced Web Technologies:** Mastering modern frameworks and tools
+- **Advanced Web Technologies:** Mastering modern frameworks and tools (Next.js 15, React 19)
+- **AI & Machine Learning:** Integrating AI capabilities into web applications
 - **System Design:** Understanding scalable architecture and design patterns
 - **Cloud Computing:** Expanding knowledge in cloud platforms and services
 - **Open Source Contribution:** Actively contributing to collaborative projects
@@ -161,7 +210,26 @@ I'm always excited to:
 - Professional Communication Skills (Cisco)
 - Technical English for IT Professionals
 
-### �� Let's Connect
+### 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Brainstorm-collab&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brainstorm-collab&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</div>
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Brainstorm-collab&theme=darkhub&no-frame=true&column=7" alt="GitHub Trophies" />
+</div>
+
+### 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Brainstorm-collab&theme=dark&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+</div>
+
+### 🔗 Let's Connect
 
 I'm always open to discussing technology trends, collaborating on interesting projects, or simply connecting with fellow developers and tech enthusiasts. Let's build something amazing together!
 
@@ -174,5 +242,9 @@ I'm always open to discussing technology trends, collaborating on interesting pr
 **🎓 Education:** B.Tech in Computer Science & Engineering (Expected 2026)
 
 ---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Brainstorm-collab&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
 
 *"Where there's a problem, there's a solution waiting to be coded."* 🚀
